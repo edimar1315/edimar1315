@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sobre Mim<br><br>Sou um engenheiro de software apaixonado por tecnologia e inovação. Com experiência em .NET, Python e SQL, tenho dedicado minha carreira a desenvolver soluções eficientes e de alta qualidade. <br><br>Adoro enfrentar desafios complexos e encontrar maneiras criativas de resolvê-los, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. <br><br>Sinta-se à vontade para explorar meus repositórios e acompanhar meus projetos!<br><br>Tecnologias e Ferramentas<br>- .NET<br>- Python<br>- SQL
+Sobre Mim<br><br>Sou um engenheiro de dados apaixonado por tecnologia. Com experiência em .NET, Python e SQL, pyspark, pandas. tenho dedicado minha carreira a desenvolver soluções eficientes e de alta qualidade. <br><br>Adoro enfrentar desafios complexos e encontrar maneiras criativas de resolvê-los, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. <br><br>Sinta-se à vontade para explorar meus repositórios e acompanhar meus projetos!<br><br>Tecnologias e Ferramentas<br>- .NET<br>- Python<br>- SQL
 
 
 ## 🌐 Socials:
