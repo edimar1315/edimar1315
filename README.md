@@ -3,10 +3,10 @@
 
 Sou um desenvolvedor de software com experiência em .NET, C# e SQL Server, focado na criação, manutenção e otimização de sistemas para garantir alto desempenho e escalabilidade. Minha atuação engloba integração de APIs REST, automação de processos e análise de requisitos, sempre alinhado às melhores práticas de desenvolvimento e segurança.
 
-📈 Destaques da minha trajetória: 
-✅ Desenvolvimento de aplicações .NET escaláveis e seguras.
-✅ Otimização de consultas SQL Server, reduzindo tempo de resposta.
-✅ Implementação de integrações via APIs REST, melhorando a comunicação entre sistemas.
+📈 Destaques da minha trajetória: <br>
+✅ Desenvolvimento de aplicações .NET escaláveis e seguras.<br>
+✅ Otimização de consultas SQL Server, reduzindo tempo de resposta.<br>
+✅ Implementação de integrações via APIs REST, melhorando a comunicação entre sistemas.<br>
 ✅ Forte atuação na sustentação e manutenção de sistemas críticos.
 
 Estou em constante aprendizado e aprimoramento das minhas habilidades para entregar soluções inovadoras e eficientes. Busco oportunidades para contribuir com empresas de tecnologia que valorizem inovação, qualidade de código e boas práticas de desenvolvimento.
