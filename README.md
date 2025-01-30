@@ -1,5 +1,20 @@
 # 💫 About Me:
-Sobre Mim<br><br>Sou um engenheiro de dados apaixonado por tecnologia. Com experiência em .NET, Python e SQL, pyspark, pandas. tenho dedicado minha carreira a desenvolver soluções eficientes e de alta qualidade. <br><br>Adoro enfrentar desafios complexos e encontrar maneiras criativas de resolvê-los, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. <br><br>Sinta-se à vontade para explorar meus repositórios e acompanhar meus projetos!<br><br>Tecnologias e Ferramentas<br>- .NET<br>- Python<br>- SQL
+💻 Desenvolvedor .NET | C# | SQL Server | APIs REST | Arquitetura de Software
+
+Sou um desenvolvedor de software com experiência em .NET, C# e SQL Server, focado na criação, manutenção e otimização de sistemas para garantir alto desempenho e escalabilidade. Minha atuação engloba integração de APIs REST, automação de processos e análise de requisitos, sempre alinhado às melhores práticas de desenvolvimento e segurança.
+
+📈 Destaques da minha trajetória: 
+✅ Desenvolvimento de aplicações .NET escaláveis e seguras.
+✅ Otimização de consultas SQL Server, reduzindo tempo de resposta.
+✅ Implementação de integrações via APIs REST, melhorando a comunicação entre sistemas.
+✅ Forte atuação na sustentação e manutenção de sistemas críticos.
+
+Estou em constante aprendizado e aprimoramento das minhas habilidades para entregar soluções inovadoras e eficientes. Busco oportunidades para contribuir com empresas de tecnologia que valorizem inovação, qualidade de código e boas práticas de desenvolvimento.
+
+📩 Vamos conversar? Estou em busca de oportunidades como Desenvolvedor .NET ou Analista de Sistemas para aplicar minha expertise em .NET, SQL Server e APIs REST. 
+Conecte-se comigo para trocarmos experiências!
+
+ <br><br>Tecnologias e Ferramentas<br>- .NET(C#)<br>- Python<br>- SQL?<br>- SQLServer<br>- APIs REST & Integração de Sistemas
 
 
 ## 🌐 Socials:
