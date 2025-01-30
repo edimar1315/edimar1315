@@ -14,7 +14,7 @@ Estou em constante aprendizado e aprimoramento das minhas habilidades para entre
 📩 Vamos conversar? Estou em busca de oportunidades como Desenvolvedor .NET ou Analista de Sistemas para aplicar minha expertise em .NET, SQL Server e APIs REST. 
 Conecte-se comigo para trocarmos experiências!
 
- <br><br>Tecnologias e Ferramentas<br>- .NET(C#)<br>- Python<br>- SQL?<br>- SQLServer<br>- APIs REST & Integração de Sistemas
+ <br><br>Tecnologias e Ferramentas<br>- .NET(C#)<br>- Python<br>- SQLServer<br>- APIs REST & Integração de Sistemas
 
 
 ## 🌐 Socials:
