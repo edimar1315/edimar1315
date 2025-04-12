@@ -1,7 +1,7 @@
 # 💫 About Me:
-💻 Desenvolvedor .NET | C# | SQL Server | APIs REST | Arquitetura de Software
+💻 Analista de sistemas .NET | C# | SQL Server | APIs REST | Arquitetura de Software
 
-Sou um desenvolvedor de software com experiência em .NET, C# e SQL Server, focado na criação, manutenção e otimização de sistemas para garantir alto desempenho e escalabilidade. Minha atuação engloba integração de APIs REST, automação de processos e análise de requisitos, sempre alinhado às melhores práticas de desenvolvimento e segurança.
+Sou um analista de sistemas com experiência em .NET, C# e SQL Server, focado na criação, manutenção e otimização de sistemas para garantir alto desempenho e escalabilidade. Minha atuação engloba integração de APIs REST, automação de processos e análise de requisitos, sempre alinhado às melhores práticas de desenvolvimento e segurança.
 
 📈 Destaques da minha trajetória: <br>
 ✅ Desenvolvimento de aplicações .NET escaláveis e seguras.<br>
